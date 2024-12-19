@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Attack-Detection-in-Structural-Health-Monitoring-Wireless-Sensor-Networks
+Machine learning-based attack detection for Wireless Sensor Networks (WSN) in Structural Health Monitoring (SHM) systems. Ensures security by detecting anomalous traffic patterns, addressing threats like jamming and routing attacks. Evaluates detection accuracy, performance, network latency, and energy consumption impact.
